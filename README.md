@@ -4,9 +4,14 @@ Vote our server on [Minecraft-MP!](https://minecraft-mp.com) to get in-game rewa
 
 Join our discord server to get more information about our server! [Click here.](https://discord.com)
 
-### Markdown
+### Shop
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Remember buying this stuff is optional, You can get this stuff for free in-game**
+Hearth of the Sea 1x = 4.99$
+Nether Star 1x = 5.99$
+Wither Skeleton Skull = 2.99$
+Diamond 1x = 0.2$
+Netherite 1x = 0.5$
 
 ```markdown
 Syntax highlighted code block
