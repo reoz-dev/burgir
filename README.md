@@ -18,7 +18,7 @@ Netherite 1x = 0.5$
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To buy this stuff join our [discord](discord.gg) and create a ticket!
 
 ### Jekyll Themes
 
